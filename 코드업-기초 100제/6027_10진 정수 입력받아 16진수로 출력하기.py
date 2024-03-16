@@ -6,5 +6,5 @@
 '''
 
 a = int(input())
-print(hex(a))
-print("%x"%a)
+print(hex(a)) #진법표시 있음. 슬라이싱으로 지울 수 있음 [2:]
+print("%x"%a) #진법표시 없음

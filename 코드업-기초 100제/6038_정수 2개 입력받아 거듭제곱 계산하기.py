@@ -1,3 +1,3 @@
-f1, f2 = input().split()
+n1, n2 = input().split()
 
-print(float(f1)**float(f2))
+print(int(n1)**int(n2))
